@@ -1,0 +1,18 @@
+* {margin: 0;padding: 0;box-sizing: border-box;font-family: 'Roboto', sans-serif}
+.wrappall::before, .wrappall::after {clear: both;overflow: visible;}
+.wrappall {position:relative;height: 70vh;background: #353535;background-size: cover;background-repeat: no-repeat;background-position: center;}
+.formSearch {position: absolute;top: 56%;left: 50%;transform: translate(-50%,-50%);text-align: center;}
+.formSearch form{background: #fff;padding: 2px;border-radius: 3px;}
+.kwdSeacrh {width: 450px;padding: 10px;border: none;border-radius: 3px; margin-right: 10px;}
+.kwdSumbit {padding: 10px;border: none;border-radius: 3px;background: transparent;color: #333}
+#content{margin-top: -10vh;position: relative;width: 100%;}
+.contents{width: 728px; margin: 0 auto; background: #fff;padding: 20px;border-radius: 3px;overflow: hidden;margin-bottom: 40px;}
+.listitems{margin-bottom: 20px;}
+.gSearch{width: 100%;}
+.sRtitle a{text-decoration: none;color: #8c7ae6;font-size: 16px;}
+.sLink{font-size: 14px; color: #44bd32;display: block;}
+.sDescr{font-size: 13px; color: #444}
+.ySearch{float: right;width: 200px;}
+.yVideo{margin-bottom: 10px;}
+#footer{height: 30vh;line-height:30vh;text-align: center;font-size: 13px;font-weight: 600;color: #f4f4fa;background:#2b2b2c;}
+.logo{height: 90px;margin-bottom: 20px;}
